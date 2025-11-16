@@ -1,0 +1,16 @@
+25125047
+Le Quang Nhat
+8.9
+Loc Ngai, xa Bao Lam 1, Lam Dong
+12 11 2007
+
+--- Advanced Student Report ---
+ID: 25125047
+First Name: Le
+Last Name: Quang Nhat
+GPA: 8.9
+Address: Loc Ngai, xa Bao Lam 1, Lam Dong
+DOB: 12/11/2007
+Age: 18 years, 0 months, 4 days
+
+Student 25125047 is in class K25
